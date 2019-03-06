@@ -1,4 +1,42 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Default View"
-    id="fbe29bf6-b362-4dd1-b274-85bccc551325"/>
+    id="fbe29bf6-b362-4dd1-b274-85bccc551325">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b9177e8f-9280-48a9-b089-829b60fe88bd">
+    <bounds
+        x="60"
+        y="24"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_c824ce96-ad33-468c-a841-79913b4cd5f0.xml#c824ce96-ad33-468c-a841-79913b4cd5f0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="2616089f-2f0c-47a1-b80a-f3fe94dd7871">
+    <bounds
+        x="324"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_88337be6-0f6c-4111-9599-8beecb8655f8.xml#88337be6-0f6c-4111-9599-8beecb8655f8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="746b9d29-774b-4eda-98b5-a7e515c47ecb">
+    <bounds
+        x="264"
+        y="252"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_69a37839-217c-4304-90a2-a51ce2b867ce.xml#69a37839-217c-4304-90a2-a51ce2b867ce"/>
+  </children>
+</archimate:ArchimateDiagramModel>
