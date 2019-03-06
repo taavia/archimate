@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="(new model)" id="7d92d3d0-0b5a-478e-bd4d-8789b005c350" version="4.0.1">
+  <folder name="Strategy" id="9ba8e023-5ca6-4053-a992-c600001bdd3f" type="strategy"/>
+  <folder name="Business" id="e6f8cb04-919a-426f-9809-41f2cbb7aa30" type="business"/>
+  <folder name="Application" id="e6561382-dc51-4b4c-b717-3409bbe527c4" type="application"/>
+  <folder name="Technology &amp; Physical" id="ab9df73f-9c3f-4767-b601-995eab388e7a" type="technology"/>
+  <folder name="Motivation" id="f47f9b00-91c6-4da0-ae63-77821dfd2abf" type="motivation">
+    <element xsi:type="archimate:Stakeholder" name="Stakeholder" id="3530fa01-55cd-4b69-890c-9d03fe3b7b85"/>
+  </folder>
+  <folder name="Implementation &amp; Migration" id="a6f5a846-9603-4c72-bc84-fbdea12911ba" type="implementation_migration"/>
+  <folder name="Other" id="96674e24-e38e-4383-91f5-adafdbdcf3be" type="other"/>
+  <folder name="Relations" id="9fa13360-38d8-4dc2-bb81-3cf3f72d2c3b" type="relations"/>
+  <folder name="Views" id="902a7be2-2403-497e-af49-3041dbe21ce3" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="a0d2cd9a-1664-447a-b999-7bf49966904b">
+      <child xsi:type="archimate:DiagramObject" id="a4176042-20be-43d5-aed4-950f2d110278" archimateElement="3530fa01-55cd-4b69-890c-9d03fe3b7b85">
+        <bounds x="124" y="100" width="120" height="55"/>
+      </child>
+    </element>
+  </folder>
+</archimate:model>
